@@ -1,5 +1,5 @@
 ### Hi there 👋<img align="right" src="https://github-readme-stats.vercel.app/api?username=HoshinoNeko&show_icons=true&&bg_color=#fff"/>
-Noob!   
+Noob   
 Hoshino desu owo!   
 Major in Network   
 PHP Golang & Java Learning   
